@@ -1,10 +1,17 @@
-### Hi there 👋 I'm Anthony
+### Hi there 👋 I'm Anthony 
 
+ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bararda&hide=Mathematica&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+I'm a full stack developer working in Victoria, BC. 
 
-[![Bararda's github stats](https://github-readme-stats.vercel.app/api?username=Bararda&show_icons=true&theme=cobalt&count_private=true&show_icons=true)](https://github.com/ShanaMaid/)
+* 🏢 I'm currently working at North Orca Technologies Inc
+* ⚙️ I mostly use `.js`, `.jsx`, `.html`, `.sql`, `.css`, `.sh`, and `.cpp`
 
+## Stats
+
+[![Bararda's github stats](https://github-readme-stats.vercel.app/api?username=Bararda&show_icons=true&theme=cobalt&count_private=true&show_icons=true)](https://github.com/ShanaMaid/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bararda&hide=Mathematica&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Bararda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bararda&theme=dark)](https://git.io/streak-stats)
 
 
 
