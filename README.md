@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Anthony 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anthony 
 
  
 
@@ -6,6 +6,20 @@ I'm a full stack developer working in Victoria, BC.
 
 * 🏢 I'm currently working at North Orca Technologies Inc
 * ⚙️ I mostly use `.js`, `.jsx`, `.html`, `.sql`, `.css`, `.sh`, and `.cpp`
+
+
+
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/anthony-doucet/
 
 ## Stats
 
