@@ -6,6 +6,7 @@
 
 [![Bararda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bararda)](https://github.com/Bararda/github-readme-stats)
 
+![Bararda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bararda&count_private=true)
 
 
 <!--
