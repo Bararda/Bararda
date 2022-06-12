@@ -23,7 +23,7 @@ You can find me on [![LinkedIn][2.2]][2].
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bararda&hide=Mathematica&layout=compact&theme=cobalt) ![Bararda's github stats](https://github-readme-stats.vercel.app/api?username=Bararda&show_icons=true&theme=cobalt&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bararda&hide=Mathematica,ShaderLab,HLSL&layout=compact&theme=cobalt) ![Bararda's github stats](https://github-readme-stats.vercel.app/api?username=Bararda&show_icons=true&theme=cobalt&count_private=true&show_icons=true)
 
 ![Bararda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bararda&theme=omni)
 
