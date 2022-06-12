@@ -5,7 +5,7 @@
 I'm a full stack developer working in Victoria, BC. 
 
 * 🏢 I'm currently working at North Orca Technologies Inc
-* ⚙️ I mostly use `.js`, `.jsx`, `.html`, `.sql`, `.css`, `.sh`, and `.cpp`
+* ⚙️ I mostly use `.js`, `c#`, `.jsx`, `.html`, `.sql`, `.css`, `.sh`, and `.cpp`
 
 
 
